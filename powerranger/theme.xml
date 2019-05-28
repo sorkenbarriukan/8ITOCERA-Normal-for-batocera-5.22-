@@ -1,0 +1,30 @@
+<theme>
+
+<formatVersion>4</formatVersion>
+
+<include>./../simple.xml</include>
+
+<view name="system">
+
+<!--
+<sound name="bgsound">
+<path>./sounds/system.ogg</path>
+</sound>
+-->
+
+<image name="logo">
+<path>./art/system.png</path>
+</image>
+</view>
+
+<view name="basic, detailed">
+<image name="logo">
+<path>./art/system.png</path>
+<pos>0.30 0.097</pos>
+<size>0.28 0.10</size>
+<origin>0 0.5</origin>
+</image>
+
+</view>
+
+</theme>
